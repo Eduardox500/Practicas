@@ -1,5 +1,5 @@
-// var Cnumeros = prompt("cantidad de numeros");
 var Cnumeros = 2
+// var Cnumeros = prompt("cantidad de numeros");
 var num = [];
 var Contador_Positivo = 0;
 var Contador_Negativo = 0;
