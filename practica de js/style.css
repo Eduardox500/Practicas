@@ -1,0 +1,26 @@
+#tarjeta{
+    background-color: rgb(240, 240, 240); 
+    width: 450px; 
+    height: 530px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#img {
+    width: 300px;
+    margin-top: 50px
+}
+
+#p{
+    margin-left: 20px; 
+    margin-right: 20px;
+}
+
+#boton {
+    background-color: red; 
+    width: 150px; 
+    color: white; 
+    border-radius: 15px; 
+    user-select: none; 
+    font-size: 25px;
+}
